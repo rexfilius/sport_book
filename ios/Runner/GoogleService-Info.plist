@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>378190061743-6pcb0c192tir5ndhdf9t7qq3tcmake0k.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.378190061743-6pcb0c192tir5ndhdf9t7qq3tcmake0k</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAa-l46PjPSt2YXF61OOzauxrbogED_rkc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>378190061743</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>github.com.rexfilius.sportBook</string>
+	<key>PROJECT_ID</key>
+	<string>sporty-book</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sporty-book.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:378190061743:ios:16e58cfa7ec1299df9b45a</string>
+</dict>
+</plist>
